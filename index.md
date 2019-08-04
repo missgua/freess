@@ -1,5 +1,5 @@
 科学上网SS
-下载：Free ss v1.0
+<p>下载：<a href="https://raw.githubusercontent.com/missgua/freess/master/Free%20SS.zip" target="_blank">Free ss v1.0</a></p>
 
 
 【windows】客户端下载
