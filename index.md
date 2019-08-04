@@ -1,5 +1,8 @@
 科学上网SS
 <p><h1><strong>下载：<a href="https://raw.githubusercontent.com/missgua/freess/master/Free%20SS.zip" target="_blank">Free ss v1.1</a></strong></h1></p>
+
+<p>更新日记</p>
+<p>新增了SSR链接</p>
 <img src="https://github.com/missgua/freess/blob/master/111.png?raw=true">
 <img src="https://github.com/missgua/freess/blob/master/112.png?raw=true">
 
