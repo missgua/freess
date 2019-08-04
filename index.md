@@ -1,4 +1,5 @@
-Free ss v1.0
+科学上网SS
+下载：Free ss v1.0
 
 
 【windows】客户端下载
